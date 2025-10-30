@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="robo-projeto-lua.png"
+    width="200"
+/>
+</p>
+
 # podcast-made-by-AI
 Criando um audiobook através de IA
 
